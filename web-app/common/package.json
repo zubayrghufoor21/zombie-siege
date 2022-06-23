@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "ramda": "^0.28.0"
+    "ramda": "^0.28.0",
+    "zombie-siege": "file:../.."
   }
 }
