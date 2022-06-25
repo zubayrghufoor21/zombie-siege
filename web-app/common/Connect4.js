@@ -62,7 +62,7 @@ Connect4.empty_board = function (width = 7, height = 6) {
 /**
  * This helper function takes a board, and for each column, returns either
  * the column's index if it has free slots, or `-1` if it is full.
- * @function
+ *  @function
  * @param {Connect4.Board} board The board to label.
  * @returns {number[]} Array containing the column index if free or `-1` if full
  */

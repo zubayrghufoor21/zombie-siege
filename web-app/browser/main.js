@@ -220,7 +220,7 @@ const update_statistics = function (home_player, away_player) {
         el("away_current_streak").textContent = stats_away.current_streak;
         el("away_longest_streak").textContent = stats_away.longest_streak;
 
-        // I probably overdid it with the stats.
+        // I probably overdid it with the stats.//
     };
 };
 
